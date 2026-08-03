@@ -5,9 +5,7 @@
     overflow: hidden;
 }
   
-.navbar li {
-    float: middle;
-}
+
   
 .navbar li a {
     display: block;
@@ -38,9 +36,6 @@ h1{
     text-align: center;
   }
 
-ul {
-    position: sticky;
-    top: 0;
-  }
-
-  
+img {
+    width: 50%
+}
