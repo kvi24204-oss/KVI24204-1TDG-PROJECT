@@ -4,15 +4,13 @@
     padding: 0;
     overflow: hidden;
 }
-  
 
-  
 .navbar li a {
     display: block;
     text-align: center;
     padding: 18px 18px;
 }
-  
+
 .navbar {
     text-size-adjust: large;
 }
@@ -21,21 +19,46 @@
     border: 5px solid rgb(0, 0, 0);
 }
 
-.navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 80px;
+ul li {
+    float: left;
 }
 
-div { 
+div {
     font-size: 30px
 }
 
-h1{
+h1 {
     text-align: center;
-  }
+}
 
 img {
     width: 50%
 }
+
+h1 {
+    font-size: 450%;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+img {
+    width: 25%
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.container img {
+    width: 80%;
+    padding-right: 10%;
+}
+
+.container2 img {
+    padding-left: 70%;
+}
+
+
+
