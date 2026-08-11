@@ -46,7 +46,6 @@ h1 {
 }
 
 .container1 img {
-    padding-left: 30%;
     width: 25%;
 }
 
@@ -54,5 +53,20 @@ h1 {
     display:flex;
     flex-direction: row;
 }
+
+.container3 img {
+    width: 25%;
+}
+
+.container3 {    
+    display:flex;
+    flex-direction: row;
+}
+
+.container8 img {
+    width: 15%
+}
+
+
 
 
