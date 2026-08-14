@@ -12,10 +12,6 @@
 }
 
 .navbar {
-    text-size-adjust: large;
-}
-
-.navbar {
     border: 5px solid rgb(0, 0, 0);
 }
 
@@ -65,5 +61,10 @@ h1 {
 
 .container8 img {
     width: 15%
+}
+
+.container8  {    
+    display:flex;
+    flex-direction: row;
 }
 
