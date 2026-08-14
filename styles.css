@@ -68,3 +68,10 @@ h1 {
     flex-direction: row;
 }
 
+body {
+    background-color: #ffe5eb;
+}
+
+.navbar {
+    background-color: white;
+}
