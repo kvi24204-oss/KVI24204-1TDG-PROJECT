@@ -75,3 +75,14 @@ body {
 .navbar {
     background-color: white;
 }
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container-materials {
+    width: 25%;
+}
+.container-materials img {
+    width: 100%;
+}
